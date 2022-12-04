@@ -242,11 +242,11 @@ CTAエリア
 Google マップ部分
 -----------------------------------------------------*/
 
-.relative4 {
+.relative3 {
     position: relative;
 }
 
-.absolute4 {
+.absolute3 {
     position: absolute;
     top: 810px;
     left: 50px;
